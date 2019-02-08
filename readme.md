@@ -1,5 +1,5 @@
 Login
-![alt text](https://github.com/akbarpra/praktikumAPLIKASIakbar/blob/master/histori.PNG)
+![alt text](https://github.com/akbarpra/praktikumAPLIKASIakbar/blob/master/login.PNG)
 
 Dashboard
 ![alt text](https://github.com/akbarpra/praktikumAPLIKASIakbar/blob/master/dashboard.PNG)
